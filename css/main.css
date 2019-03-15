@@ -293,7 +293,7 @@ ul li {
 	$Banner
 ========================================================================== */
 .banner {
-	background-image: url(../images/banner-02.jpg);
+	background-image: url(../images/banner-04.jpg);
 	background-position: center top;
 	background-repeat: no-repeat;
 	-moz-background-size: cover;
@@ -303,7 +303,7 @@ ul li {
 	min-height: 750px;
 }
 .banner-inner-wrapper {
-	float: right;
+	float: left;
 }
 .banner-text {
 	padding-top: 45%;
